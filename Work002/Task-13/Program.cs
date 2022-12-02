@@ -10,7 +10,3 @@ Console.Write($"Третья цифра в вашем числе - {result}");
 else Console.Write("Третьей цифры нет");
 
 
-// while (result > 10) {
-//     result = result/10;
-// }
-// Console.Write($"Третья цыфра в числе {number} - {result}");
