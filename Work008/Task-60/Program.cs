@@ -16,8 +16,8 @@ void PrintArrayThree(int[,,] array)
             {
                 Console.Write($"{array[i, j, z]}({i},{j},{z}) ");
             }
-        }
         Console.WriteLine();
+        }
     }
 }
 
